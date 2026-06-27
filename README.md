@@ -134,7 +134,7 @@ https://huggingface.co/docs/transformers/index
 
 ## Developer
 
-Hasnain  
+Muhammed Hasnat
 AI/ML Developer  
 Specialization: Deep Learning & Machine Learning  
 
